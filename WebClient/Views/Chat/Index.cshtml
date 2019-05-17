@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Chat</title>
+
+    <script src="/lib/jquery/dist/jquery.js"></script>
+    <script src="/lib/signalr/dist/browser/signalr.js"></script>
+    <script src="/js/Chat/client.js"></script>
+
+</head>
+<body>
+    
+<div>
+    UserName: <input type="text" id="userName" />
+    <br />
+    Message: <input type="text" id="message" />
+    <br />
+    <button onclick="sendMessage()">Send</button>
+</div>
+<div>
+    <ul id="messageList">
+    </ul>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+D:\Project\MyProj\SfIm\LibCore\bin\Debug\netstandard2.0\LibCore.deps.json
+D:\Project\MyProj\SfIm\LibCore\bin\Debug\netstandard2.0\LibCore.dll
+D:\Project\MyProj\SfIm\LibCore\bin\Debug\netstandard2.0\LibCore.pdb
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.csproj.CoreCompileInputs.cache
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.AssemblyInfoInputs.cache
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.AssemblyInfo.cs
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.dll
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.pdb
+D:\Project\MyProj\SfIm\LibCore\obj\Debug\netstandard2.0\LibCore.csprojAssemblyReference.cache

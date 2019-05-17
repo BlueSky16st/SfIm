@@ -1,0 +1,12 @@
+D:\Project\MyProj\SfIm\Database\bin\Debug\netstandard2.0\Database.deps.json
+D:\Project\MyProj\SfIm\Database\bin\Debug\netstandard2.0\Database.dll
+D:\Project\MyProj\SfIm\Database\bin\Debug\netstandard2.0\Database.pdb
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.csprojAssemblyReference.cache
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.csproj.CoreCompileInputs.cache
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.dll
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.pdb
+D:\Project\MyProj\SfIm\Database\bin\Debug\netstandard2.0\Common.dll
+D:\Project\MyProj\SfIm\Database\bin\Debug\netstandard2.0\Common.pdb
+D:\Project\MyProj\SfIm\Database\obj\Debug\netstandard2.0\Database.csproj.CopyComplete
